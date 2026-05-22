@@ -12,7 +12,6 @@ sites:
     url: https://developers.guardghost.com
 
 status-website:
-  cname: status.guardghost.com
   name: GuardGhost Status
   introTitle: "**GuardGhost** real-time service status"
   introMessage: Monitored every 5 minutes via GitHub Actions. For incident details contact info@guardghost.com.
