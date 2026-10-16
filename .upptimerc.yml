@@ -13,6 +13,7 @@ sites:
 
 status-website:
   name: GuardGhost Status
+  faviconSvg: https://status.guardghost.com/favicon.svg
   introTitle: "**GuardGhost** real-time service status"
   introMessage: Monitored every 5 minutes via GitHub Actions. For incident details contact info@guardghost.com.
   navbar:
